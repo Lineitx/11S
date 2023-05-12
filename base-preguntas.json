@@ -1,0 +1,263 @@
+[
+    {
+        "pregunta": "Como se llama este personaje?",
+        "respuesta": "Katniss Everdeen",
+        "incorrecta1": "Annie Cresta",
+        "incorrecta2": "Effie Trinket",
+        "incorrecta3": "Alma Coin",
+        "imagen": "fts/katnisstrivi.jpg",
+        "objectFit": "scale-down"
+    },
+    {
+        "pregunta": "La comida preferida del Capitolio de Katniss es....",
+        "respuesta": "Estofado de cordero con ciruelas pasas",
+        "incorrecta1": "Ciervo a la mostaza con arroz y cebollines",
+        "incorrecta2": "Conejo salvaje a la parrilla",
+        "incorrecta3": "Pollo a la naranja con papas",
+        "objectFit": "scale-down"
+    },
+    {
+
+        "pregunta": "Cual es el color favorito de tu novio?",
+        "respuesta": "Negro",
+        "incorrecta1": "Azul",
+        "incorrecta2": "Verde",
+        "incorrecta3": "Morado",
+        "imagen": "fts/us19.jpg",
+        "objectFit": "scale-down"
+    },
+    {
+        "pregunta": "Como se llamaba el gato de Prim en los juegos del hambre?",
+        "respuesta": "Buttercup",
+        "incorrecta1": "Holly",
+        "incorrecta2": "Tom",
+        "incorrecta3": "Bate",
+        "objectFit": "scale-down"
+    },
+    {
+        "pregunta": "De que distrito es la comadreja? (Fox Face)",
+        "respuesta": "Distrito 5",
+        "incorrecta1": "Distrito 3",
+        "incorrecta2": "Distrito 7",
+        "incorrecta3": "Distrito 6",
+        "imagen": "fts/comadreja.jpg",
+        "objectFit": "scale-down"
+    },
+    {
+        "pregunta": "Quien es la compañera del distrito de Marvel?",
+        "respuesta": "Glimmer",
+        "incorrecta1": "Clove",
+        "incorrecta2": "Noah",
+        "incorrecta3": "Fawn",
+        "imagen": "fts/marvel.jpg",
+        "objectFit": "scale-down"
+    },
+    {
+        "pregunta": "Cual es el personaje favorito de Lineitx en Star Wars?",
+        "respuesta": "Boba Fett",
+        "incorrecta1": "Ahsoka Tano",
+        "incorrecta2": "Anakin Skywalker",
+        "incorrecta3": "Obi-Wan Kenobi",
+        "imagen": "fts/starwarstrivi.png",
+        "objectFit": "scale-down"
+    },
+    {
+        "pregunta": "Cuantas marcas de nacimiento tengo?",
+        "respuesta": "2",
+        "incorrecta1": "1",
+        "incorrecta2": "3",
+        "incorrecta3": "No tengo",
+        "objectFit": "scale-down"
+    },
+    {
+        "pregunta": "Cuando fue la primera vez que nos vimos en persona?",
+        "respuesta": "El dia de la imagen pero 20 años despues",
+        "incorrecta1": "11 de Septiembre de 2021",
+        "incorrecta2": "11 de Octubre de 2021",
+        "incorrecta3": "No nos conocemos pero te hago una pagina web",
+        "imagen": "fts/11s.jpg",
+        "objectFit": "scale-down"
+    },
+    {
+        "pregunta": "Que edad tiene Yoda en el Episodio 2?",
+        "respuesta": "874 años",
+        "incorrecta1": "880 años",
+        "incorrecta2": "878 años",
+        "incorrecta3": "872 años",
+        "imagen": "fts/yoda.jpg",
+        "objectFit": "scale-down"
+    },
+    {
+        "pregunta": "Cuantos años hago siendo fan de Star Wars este año?",
+        "respuesta": "13 años",
+        "incorrecta1": "11 años",
+        "incorrecta2": "12 años",
+        "incorrecta3": "14 años",
+        "imagen": "fts/miniyo.jpg",
+        "objectFit": "scale-down"
+    },
+    {
+        "pregunta": "Cual es mi refresco favorito?",
+        "respuesta": "Monster",
+        "incorrecta1": "Red Bull",
+        "incorrecta2": "Kas",
+        "incorrecta3": "Coca Cola",
+        "objectFit": "scale-down"
+    },
+    {
+        "pregunta": "Cuanto mido? (Al menos la ultima vez que me medi)",
+        "respuesta": "1,75",
+        "incorrecta1": "1,76",
+        "incorrecta2": "1,74",
+        "incorrecta3": "1,77",
+        "objectFit": "scale-down"
+    },
+    {
+        "pregunta": "Cual fue mi primer apodo?",
+        "respuesta": "Aimi",
+        "incorrecta1": "Aizam",
+        "incorrecta2": "Lineitx",
+        "incorrecta3": "Aizamlin",
+        "objectFit": "scale-down"
+    },
+    {
+        "pregunta": "En que municipio de Mallorca naci?",
+        "respuesta": "Calvia",
+        "incorrecta1": "Santa Ponsa",
+        "incorrecta2": "Consell",
+        "incorrecta3": "Sant Elm",
+        "imagen": "fts/calvia.jpg",
+        "objectFit": "scale-down"
+    },
+    {
+        "pregunta": "En que curso suspendi mi primera asignatura?",
+        "respuesta": "DBH2",
+        "incorrecta1": "DBH1",
+        "incorrecta2": "DBH3",
+        "incorrecta3": "DBH4",
+        "objectFit": "scale-down"
+    },
+    {
+        "pregunta": "En que año se estreno Star Wars por primera vez?",
+        "respuesta": "1977",
+        "incorrecta1": "1980",
+        "incorrecta2": "1975",
+        "incorrecta3": "1979",
+        "objectFit": "scale-down"
+    },
+    {
+        "pregunta": "Como se llama el planeta natal de Anakin Skywalker?",
+        "respuesta": "Tatooine",
+        "incorrecta1": "Naboo",
+        "incorrecta2": "Coruscant",
+        "incorrecta3": "Geonosis",
+        "imagen": "fts/anakinmini.jpg",
+        "objectFit": "scale-down"
+    },
+    {
+        "pregunta": "Boba Fett es..?",
+        "respuesta": "Un clon de Jango Fett sin alteracion de crecimiento",
+        "incorrecta1": "Un clon de Jango Fett",
+        "incorrecta2": "Un niño adoptado por Jango Fett",
+        "incorrecta3": "Sobrino de Jango Fett",
+        "imagen": "fts/minifett.jpg",
+        "objectFit": "scale-down"
+    },
+    {
+        "pregunta": "Cual ha sido o es mi videojuego favorito?",
+        "respuesta": "Call of Duty Black Ops II",
+        "incorrecta1": "Star Wars Battlefront II",
+        "incorrecta2": "Valorant",
+        "incorrecta3": "Five Nights At Freddys 4",
+        "imagen": "fts/gaming.jpg",
+        "objectFit": "scale-down"
+    },
+    {
+        "pregunta": "Cual es mi animal favorito?",
+        "respuesta": "El lobo",
+        "incorrecta1": "El perro",
+        "incorrecta2": "El delfin",
+        "incorrecta3": "El gato",
+        "objectFit": "scale-down"
+    },
+    {
+        "pregunta": "Cual de las siguientes opciones es la que mas me gusta?",
+        "respuesta": "Verte sonreir",
+        "incorrecta1": "Darte la mano",
+        "incorrecta2": "Abrazarte",
+        "incorrecta3": "Acariciarte el pelo",
+        "imagen": "fts/krunch.jpg",
+        "objectFit": "scale-down"
+    },
+    {
+        "pregunta": "Quien es este personaje?",
+        "respuesta": "Conde Dooku",
+        "incorrecta1": "Darth Maul",
+        "incorrecta2": "Darth Sidious",
+        "incorrecta3": "Darth Revan",
+        "imagen": "fts/dooku.jpeg",
+        "objectFit": "scale-down"
+    },
+    {
+        "pregunta": "Quien es este?",
+        "respuesta": "Todas son correctas",
+        "incorrecta1": "El Pique no futbolista",
+        "incorrecta2": "Un gilipollas",
+        "incorrecta3": "El celoso de la saga",
+        "imagen": "fts/gale.jpg",
+        "objectFit": "scale-down"
+    },
+    {
+        "pregunta": "Cual es mi pelicula favorita de la saga de Los Juegos Del Hambre?",
+        "respuesta": "Los juegos del hambre",
+        "incorrecta1": "Los juegos del hambre: en llamas",
+        "incorrecta2": "Los juegos del hambre: Sinsajo - Parte 1",
+        "incorrecta3": "Los Juegos del Hambre: Sinsajo - Parte 2",
+        "imagen": "fts/hunger.png",
+        "objectFit": "scale-down"
+    },
+    {
+        "pregunta": "Cual es el color favorito de Peeta?",
+        "respuesta": "Naranja",
+        "incorrecta1": "Verde",
+        "incorrecta2": "Rojo",
+        "incorrecta3": "Azul",
+        "imagen": "fts/peeta.jpeg",
+        "objectFit": "scale-down"
+    },
+    {
+        "pregunta": "Quien me hace la persona mas feliz del mundo?",
+        "respuesta": "Todas son correctas",
+        "incorrecta1": "Mi novia",
+        "incorrecta2": "Tu",
+        "incorrecta3": "El amor de mi vida",
+        "imagen": "fts/us7.jpg",
+        "objectFit": "scale-down"
+    },
+    {
+        "pregunta": "A quien le vas a dar un beso ahora mismo?",
+        "respuesta": "Todas son correctas",
+        "incorrecta1": "A mi",
+        "incorrecta2": "A la persona que mas quieres(Yo)",
+        "incorrecta3": "A tu novio",
+        "imagen": "fts/us3.jpg",
+        "objectFit": "scale-down"
+    },
+    {
+        "pregunta": "A que lugar me gustaria viajar contigo? (Ademas de todo el mundo)",
+        "respuesta": "Mallorca",
+        "incorrecta1": "Malaga",
+        "incorrecta2": "Asturias",
+        "incorrecta3": "Valencia",
+        "objectFit": "scale-down"
+    },
+    {
+        "pregunta": "Teniendo en cuenta la foto. Cual es tu mejor almohada de fiesta?",
+        "respuesta": "Todas son correctas",
+        "incorrecta1": "Yo",
+        "incorrecta2": "Lineitx",
+        "incorrecta3": "El amor de tu vida",
+        "imagen": "fts/us24.jpg",
+        "objectFit": "scale-down"
+    }
+]
